@@ -1,0 +1,10 @@
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Release\Bilibili NumMaster.exe.config
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Release\Bilibili NumMaster.exe
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Release\Bilibili NumMaster.pdb
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Release\Bilibili NumMaster.xml
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Release\Bilibili_NumMaster.Form1.resources
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Release\Bilibili_NumMaster.Resources.resources
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Release\Bilibili NumMaster.vbproj.GenerateResource.cache
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Release\Bilibili NumMaster.exe
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Release\Bilibili NumMaster.xml
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Release\Bilibili NumMaster.pdb

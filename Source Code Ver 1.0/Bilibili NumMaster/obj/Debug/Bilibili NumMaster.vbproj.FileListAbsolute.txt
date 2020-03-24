@@ -1,0 +1,11 @@
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Debug\Bilibili NumMaster.exe.config
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Debug\Bilibili NumMaster.exe
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Debug\Bilibili NumMaster.pdb
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\bin\Debug\Bilibili NumMaster.xml
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Debug\Bilibili NumMaster.vbprojAssemblyReference.cache
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Debug\Bilibili_NumMaster.Form1.resources
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Debug\Bilibili_NumMaster.Resources.resources
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Debug\Bilibili NumMaster.vbproj.GenerateResource.cache
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Debug\Bilibili NumMaster.exe
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Debug\Bilibili NumMaster.xml
+C:\Users\11787\source\repos\Bilibili NumMaster\Bilibili NumMaster\obj\Debug\Bilibili NumMaster.pdb
